@@ -1,0 +1,60 @@
+#backgound
+{
+    width: 80%;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    padding: 50px;
+    z-index: -1;
+    background-image: url("../img/56633.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#order_transport_form
+{
+    width: 350px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 0;
+    background-color: rgb(235, 235, 235);
+    opacity:0.9;
+
+}
+.input
+{
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-align: left;
+    color: lightslategray;
+    border-style: none;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 3px 1px rgba(41, 40, 40, 0.82);
+    -moz-box-shadow: 0px 0px 3px 1px rgba(41, 40, 40, 0.82);
+    box-shadow: 0px 0px 3px 1px rgba(41, 40, 40, 0.82);
+    outline: none;
+}
+label
+{
+    color:#fa9746;
+    margin-top: 5px;
+}
+#textarea
+{
+    width: 300px;
+    font-size: 20px;
+    text-align: left;
+    color: lightslategray;
+    border-style: none;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 3px 1px rgba(41, 40, 40, 0.82);
+    -moz-box-shadow: 0px 0px 3px 1px rgba(41, 40, 40, 0.82);
+    box-shadow: 0px 0px 3px 1px rgba(41, 40, 40, 0.82);
+    outline: none;
+}

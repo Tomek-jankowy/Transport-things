@@ -1,0 +1,10 @@
+$('#b_home').click(function(){location.href="index.php";});
+$('#b_contact').click(function(){location.href="contact.php";});
+$('#b_aboutus').click(function(){location.href="about_us.php";});
+$('#b_ordertransport').click(function(){location.href="submit_your_order.php";});
+$('#b_signup').click(function(){location.href="sign_up.php";});
+$('#b_myorder').click(function(){location.href="myorder.php";});
+$('#b_signin').click(function(){location.href="sign_in.php";});
+$('#b_logout').click(function(){location.href="controler/logout_controler.php";});
+$('#b_help').click(function(){location.href="help.php";});
+$('#b_settings').click(function(){location.href="settings.php";});
